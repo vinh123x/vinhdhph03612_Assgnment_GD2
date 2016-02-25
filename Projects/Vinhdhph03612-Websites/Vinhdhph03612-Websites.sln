@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Vinhdhph03612-Websites", "http://localhost:8180", "{149C7D6D-B722-4C04-9207-C0346B8DF803}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_8180"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Vinhdhph03612-Websites\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8180\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_8180"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\Vinhdhph03612-Websites\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_8180\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\WebSites\Vinhdhph03612-Websites\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{149C7D6D-B722-4C04-9207-C0346B8DF803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149C7D6D-B722-4C04-9207-C0346B8DF803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
